@@ -14,3 +14,7 @@ This dashboard provides comprehensive insights into ChocoTeam company's HR dynam
 
 ## Visualization Link
 [Tableau Dashboard](https://public.tableau.com/app/profile/mantas.siukstas/viz/HRDashboard_17034291773930/Dashboard1)
+
+
+
+![](https://github.com/MantasTech/Tiny-Repo/blob/main/HR_Dashboard/Image.png)
