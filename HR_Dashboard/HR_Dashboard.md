@@ -3,7 +3,7 @@
 ## Project Overview
 This dashboard provides comprehensive insights into ChocoTeam company's HR dynamics. The following key business questions are addressed, offering a detailed understanding of workforce:
 
-1. **Workforce Distribution by Position**: What is the headcount in each job position within the company?
+1. **Workforce Distribution**: What is the count in each job position within the company?
 2. **Gender Diversity**: How is gender distributed across the company?
 3. **Age Demographics**: What is the age distribution of our staff?
 4. **Salary Insights by Position**: Which positions command higher salaries?
