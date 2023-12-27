@@ -13,7 +13,7 @@ This dashboard provides comprehensive insights into ChocoTeam company's HR dynam
 8. **Leave Balance Statistics**: What is the average leave balance among employees?
 
 ## Visualization Link
-[Tableau Dashboard](https://public.tableau.com/app/profile/mantas.siukstas/viz/HRDashboard_17034291773930/Dashboard1)
+[Tableau Dashboard](https://public.tableau.com/app/profile/mantastech/viz/HRDashboard_17034291773930/Dashboard1)
 
 
 
